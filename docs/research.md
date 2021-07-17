@@ -16,6 +16,10 @@ __Has this been done? What need does this serve?__
 - Nice little tutorial: [https://www.youtube.com/watch?v=LT97kQWf7wU](https://www.youtube.com/watch?v=LT97kQWf7wU)
   - Don't like that it's a desktop application. That limits its accessibility. It's also not on-curriculum enough (e.g. not a web app) to be a satisfying capstone demonstration for me.
 
+__File browser web apps?__
+- This is awesome: [https://webix.com/filemanager/](https://webix.com/filemanager/)
+  - I kinda just want to use this as one feature of my app. It takes all the work out of building something that's PURELY for functionality
+
 ### Original proposal (unapproved)
 Name of Student:
 Patrick Lee
