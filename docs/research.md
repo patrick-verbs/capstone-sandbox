@@ -12,6 +12,9 @@ File browsing app
 - For stretch goals, it can store file locations (addresses on a user's specified device, or on the web)
 - Users could attach metadata like licenses (for digital assets) and integrity checksums
 
+__Has this been done? What need does this serve?__
+- Nice little tutorial: [https://www.youtube.com/watch?v=LT97kQWf7wU](https://www.youtube.com/watch?v=LT97kQWf7wU)
+
 ### Original proposal (unapproved)
 Name of Student:
 Patrick Lee
