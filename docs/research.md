@@ -63,12 +63,22 @@ __Tech stack__
 - Deploy as an app (very much stretch)
 - User registration, authentication, and authorization
 - File browser
-  - Adds link to file path
+  - Adds a link to the file path
     - Only launches if that storage device is connected
     - Still useful if the device is disconnected because it tells a user where their file lives
   - Add links to web addresses (because it's the same as the above, just easier)
   - File browser parses MD5/SHA checksums
     - This allows the app to be a file integrity checker over time, as well (compare your original checksum to a current one to make sure your assets aren't corrupt)
+  - Can upload files?
+    - __No__, I think this is outside of scope. And some files can be gigantic
+- User profiles can show files/assets they have access to
+  - example: users can choose to display cool game art assets they've found; other users can follow a link to the asset's web site to add them to their own collection
+  - private, user-only, and public visibility of assets
+- Users can create __pages__ to share and collaborate
+  - __project pages__: this is sounding a like like a GitHub repo concept 😞
+  - __asset landing pages__: can add information on a given file in a wiki-like page?
+  - __blog posts__: WordPress integration?
+- Users can __comment__ on user-created pages (e.g. project pages, blog posts)
 
 ### Simple ideas using all of the above
 - A digital asset manager specifically for tracking licenses on various assets used in projects
