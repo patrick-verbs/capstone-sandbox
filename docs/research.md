@@ -42,7 +42,11 @@ __Tech stack__
     - [Working with files](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Working_with_files)
     - [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - I don't think this is "enough" for me to be happy with it. It's not even a feature, it's just a piece of functionality.
-- Give this more identity
+- Give this more "identity"
+
+### Desired tech stack
+- HTML5/CSS3
+  - I want this to be a __web app__, not something a user needs to install
 
 ### Original proposal (unapproved)
 Name of Student:
