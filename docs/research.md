@@ -48,11 +48,29 @@ __Tech stack__
 - HTML5/CSS3
   - I want this to be a __web app__, not something a user needs to install
   - This limits options (which is good) &mdash; I don't want to use a relational database like MySQL because it wouldn't be lightweight enough for a web app
+  - Time allowing, I want this damn thing to look GOOD
 - React
   - I want the practice, and to have it in my portfolio
 - Firebase/Firestore?
   - Definitely the path of least resistance
   - I'm not stoked about Google's [privacy violations and ongoing lawsuit in the state of California](https://en.wikipedia.org/wiki/Firebase#User_privacy_controversies), but... when in Rome
+  - Full CRUD
+
+### Desired functionality or features
+- Accessible design
+- Mobile-first design (stretch)
+- Deploy on web
+- Deploy as an app (very much stretch)
+- User registration, authentication, and authorization
+
+### Simple ideas using all of the above
+- A digital asset manager specifically for tracking licenses on various assets used in projects
+  - example: you link two files from your computer to the app -- a pixel-art map with a CC0 license, and a pixel-art character with a GPL2.0 license; the app makes it easy to see the licenses, and possibly warns of conflicts
+    - this actually implies creating __project__ pages, or at least having a dedicated table for projects in the database -- many projects (created by users) can have many assets
+    - this would also have to implement a file browser... __so shouldn't a user be able to find files/assets based on their license?__ Wouldn't that be useful?
+  - the "identity" of this feels too broad. Is this for __any__ licensed digital asset? What user is going to say "oh, nice, I need this"?
+    - I don't want to scope this down to a specific type of asset (like game-making assets) because that limits its usefulness, too 😑
+    - is this essentially a media browser, like iTunes? But a little more transparent and collaborative about licensing (projects === playlists, essentially?) whereas iTunes enforces DRM (same thing fundamentally)
 
 ### Original proposal (unapproved)
 Name of Student:
