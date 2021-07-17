@@ -88,6 +88,14 @@ __Tech stack__
   - the "identity" of this feels too broad. Is this for __any__ licensed digital asset? What user is going to say "oh, nice, I need this"?
     - I don't want to scope this down to a specific type of asset (like game-making assets) because that limits its usefulness, too 😑
     - is this essentially a media browser, like iTunes? But a little more transparent and collaborative about licensing (projects === playlists, essentially?) whereas iTunes enforces DRM (same thing fundamentally)
+- A Star Wars multimedia database
+  - this was one of my original ideas:
+    - one simple view/access point could be a __timeline of Star Wars media__ (e.g. reading/watching order)
+      - for style, the timeline could have an Easter egg of skewing and turning yellow like the films' opening crawl
+      - whole project could be a makeover for [StarWarsTimeline.Net](http://starwarstimeline.net)
+    - this could also double as an API for other programmers to use
+      - replacing to very incomplete [SWAPI](https://swapi.dev/about) with far more media than just the six films
+    - turn into an encyclopedia in the future? (Yodapedia) _Definitely_ outside of scope
 
 ### Original proposal (unapproved)
 Name of Student:
