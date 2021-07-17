@@ -19,6 +19,10 @@ __Has this been done? What need does this serve?__
 __File browser web apps?__
 - This is awesome: [https://webix.com/filemanager/](https://webix.com/filemanager/)
   - I kinda just want to use this as one feature of my app. It takes all the work out of building something that's PURELY for functionality
+  - SCRATCH THAT. It's enterprise-level software that doesn't even have a price tag unless you consult them. Next.
+- This looks promising: [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
+  - It's a web app (yay)
+  - Should I just use this as a library/middleware for something bigger in scope and less boring than a file browser? 😕
 
 ### Original proposal (unapproved)
 Name of Student:
