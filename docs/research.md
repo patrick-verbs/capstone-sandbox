@@ -1,3 +1,7 @@
+### Adjustments to proposal
+Feedback: Needs a clearer purpose for existing 😑
+
+### Original proposal (unapproved)
 Name of Student:
 Patrick Lee
  
