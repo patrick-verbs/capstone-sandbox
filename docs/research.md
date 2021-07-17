@@ -47,6 +47,12 @@ __Tech stack__
 ### Desired tech stack
 - HTML5/CSS3
   - I want this to be a __web app__, not something a user needs to install
+  - This limits options (which is good) &mdash; I don't want to use a relational database like MySQL because it wouldn't be lightweight enough for a web app
+- React
+  - I want the practice, and to have it in my portfolio
+- Firebase/Firestore?
+  - Definitely the path of least resistance
+  - I'm not stoked about Google's [privacy violations and ongoing lawsuit in the state of California](https://en.wikipedia.org/wiki/Firebase#User_privacy_controversies), but... when in Rome
 
 ### Original proposal (unapproved)
 Name of Student:
