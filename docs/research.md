@@ -6,7 +6,7 @@ As it is, it's just a very general toolset. More like a feature set. I'd like us
 
 I need to scale down the scope.
 
-#### Idea #1
+#### Idea #1 research
 File browsing app
 - Keep it simple, it's just a file browser
 - For stretch goals, it can store file locations (addresses on a user's specified device, or on the web)
@@ -24,6 +24,25 @@ __File browser web apps?__
   - It's a web app (yay)
   - Should I just use this as a library/middleware for something bigger in scope and less boring than a file browser? 😕
   - Apache 2.0 license!
+
+__Tech stack__
+- JS/CSS/HTML?
+  - There's almost nothing left to do if this file browser already exists... I don't want to just install a resource that makes up 75% of my project's code
+  - The other 25% would be styling/presentation, and having a database
+- Firestore database? MongoDB?
+
+#### Idea #1 conclusion
+- I don't think a simple file browser web app has enough __identity__ or __usefulness__
+- While the "File Browser" library is insanely nice, and useful, it just leaves too little for me to do
+- I could make my own from scratch
+  - Resources:
+    - [File on MDN](https://developer.mozilla.org/en-US/docs/Web/API/File)
+    - [File() on MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/File)
+    - [File on W3C](https://w3c.github.io/FileAPI/)
+    - [Working with files](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Working_with_files)
+    - [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- I don't think this is "enough" for me to be happy with it. It's not even a feature, it's just a piece of functionality.
+- Give this more identity
 
 ### Original proposal (unapproved)
 Name of Student:
