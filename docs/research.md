@@ -62,6 +62,13 @@ __Tech stack__
 - Deploy on web
 - Deploy as an app (very much stretch)
 - User registration, authentication, and authorization
+- File browser
+  - Adds link to file path
+    - Only launches if that storage device is connected
+    - Still useful if the device is disconnected because it tells a user where their file lives
+  - Add links to web addresses (because it's the same as the above, just easier)
+  - File browser parses MD5/SHA checksums
+    - This allows the app to be a file integrity checker over time, as well (compare your original checksum to a current one to make sure your assets aren't corrupt)
 
 ### Simple ideas using all of the above
 - A digital asset manager specifically for tracking licenses on various assets used in projects
