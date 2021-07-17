@@ -1,6 +1,17 @@
 ### Adjustments to proposal
 Feedback: Needs a clearer purpose for existing 😑
 
+__What does a user have to gain from this?__
+As it is, it's just a very general toolset. More like a feature set. I'd like users to be able to database their digital media assets in such a way that it's __easier to find them__ than with a file browser like Finder (Mac) or Explorer (Windows).
+
+I need to scale down the scope.
+
+#### Idea #1
+File browsing app
+- Keep it simple, it's just a file browser
+- For stretch goals, it can store file locations (addresses on a user's specified device, or on the web)
+- Users could attach metadata like licenses (for digital assets) and integrity checksums
+
 ### Original proposal (unapproved)
 Name of Student:
 Patrick Lee
