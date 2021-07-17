@@ -14,6 +14,7 @@ File browsing app
 
 __Has this been done? What need does this serve?__
 - Nice little tutorial: [https://www.youtube.com/watch?v=LT97kQWf7wU](https://www.youtube.com/watch?v=LT97kQWf7wU)
+  - Don't like that it's a desktop application. That limits its accessibility. It's also not on-curriculum enough (e.g. not a web app) to be a satisfying capstone demonstration for me.
 
 ### Original proposal (unapproved)
 Name of Student:
