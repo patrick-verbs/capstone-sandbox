@@ -23,6 +23,7 @@ __File browser web apps?__
 - This looks promising: [https://github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
   - It's a web app (yay)
   - Should I just use this as a library/middleware for something bigger in scope and less boring than a file browser? 😕
+  - Apache 2.0 license!
 
 ### Original proposal (unapproved)
 Name of Student:
