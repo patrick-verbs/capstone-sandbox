@@ -126,6 +126,10 @@ __Tech stack__
 - Try to implement tagging functionality (stretch)
 - Try to make it look nice
 - How do I __not__ make this "Shitty GoodReads"?
+  - GoodReads doesn't appear to have any way for users to record where their books live
+  - Could also add other metadata, like MD5/SHA checksums or physical condition
+  - Users could have blog posts for books (very stretch)
+  - I can try to coexist with GoodReads by supporing [importing and exporting their user book collections as CSVs](https://www.goodreads.com/review/import)
 
 ### Original proposal (unapproved)
 Name of Student:
