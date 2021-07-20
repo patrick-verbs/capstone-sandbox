@@ -124,6 +124,16 @@ __Tech stack__
   - digital books, linked to or at least labeled with the storage devices they live on
   - physical books, labeled to locations (e.g. "home: bedroom bookshelf" or "storage unit")
 - Try to implement tagging functionality (stretch)
+  - This has __actually__ been done! [Hypothes.is]
+    - [https://github.com/hypothesis](https://github.com/hypothesis)
+    - [https://via.hypothes.is/https://web.hypothes.is/demos/](https://via.hypothes.is/https://web.hypothes.is/demos/)
+    - [https://web.hypothes.is/demos/epubjs/](https://web.hypothes.is/demos/epubjs/)
+    - [https://web.hypothes.is/developers/](https://web.hypothes.is/developers/)
+    - [https://h.readthedocs.io/en/latest/](https://h.readthedocs.io/en/latest/)
+  - How is my idea different?
+    - well first off, this is only a stretch goal, so not the main feature (which is users logging/sharing book collections and locations)
+    - I kind of want this to be MVP, but I don't think I can pull it off in the time allowed
+    - it actually looks like this is fully open info -- but I want users to be able to have the ability to keep tags/books private or visible to other users only
 - Try to make it look nice
 - How do I __not__ make this "Shitty GoodReads"?
   - GoodReads doesn't appear to have any way for users to record where their books live
