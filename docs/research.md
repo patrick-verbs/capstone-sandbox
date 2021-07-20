@@ -134,6 +134,7 @@ __Tech stack__
     - well first off, this is only a stretch goal, so not the main feature (which is users logging/sharing book collections and locations)
     - I kind of want this to be MVP, but I don't think I can pull it off in the time allowed
     - it actually looks like this is fully open info -- but I want users to be able to have the ability to keep tags/books private or visible to other users only
+    - REALLY COOL mission for Hypothes.is, but not the use-case I'm going for: [https://hypothes.is/annotating-all-knowledge/](https://hypothes.is/annotating-all-knowledge/q)
 - Try to make it look nice
 - How do I __not__ make this "Shitty GoodReads"?
   - GoodReads doesn't appear to have any way for users to record where their books live
