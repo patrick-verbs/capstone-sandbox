@@ -81,6 +81,8 @@ __Tech stack__
 - Users can __comment__ on user-created pages (e.g. project pages, blog posts)
 
 ### Simple ideas using all of the above
+
+#### Idea #2
 - A digital asset manager specifically for tracking licenses on various assets used in projects
   - example: you link two files from your computer to the app -- a pixel-art map with a CC0 license, and a pixel-art character with a GPL2.0 license; the app makes it easy to see the licenses, and possibly warns of conflicts
     - this actually implies creating __project__ pages, or at least having a dedicated table for projects in the database -- many projects (created by users) can have many assets
@@ -88,6 +90,8 @@ __Tech stack__
   - the "identity" of this feels too broad. Is this for __any__ licensed digital asset? What user is going to say "oh, nice, I need this"?
     - I don't want to scope this down to a specific type of asset (like game-making assets) because that limits its usefulness, too 😑
     - is this essentially a media browser, like iTunes? But a little more transparent and collaborative about licensing (projects === playlists, essentially?) whereas iTunes enforces DRM (same thing fundamentally)
+
+#### Idea #3
 - A Star Wars multimedia database
   - this was one of my original ideas:
     - one simple view/access point could be a __timeline of Star Wars media__ (e.g. reading/watching order)
@@ -97,13 +101,22 @@ __Tech stack__
       - replacing to very incomplete [SWAPI](https://swapi.dev/about) with far more media than just the six films
     - turn into an encyclopedia in the future? (Yodapedia) _Definitely_ outside of scope
   - __I don't really want my capstone to be a weirdly-niche Star Wars showcase__
+
+#### Idea #4
 - A more general sci-fi/fantasy database, maybe?
   - looks like [http://www.isfdb.org/](http://www.isfdb.org/) is way ahead of me there
     - leaves a lot to be desired as far as style
     - maybe I could dump this data as a pseudo-API, maybe even create an API from it?
   - this could be handy for tagging passages in novels for easy lookup (e.g. "space battle") for writers
     - tons of use cases for this, how can I dial it in?
-    - 
+    - I really like the idea of being able to "tag" written passages -- I've __never__ found looking up written words to be as accessible and easy as other forms of data. What if you could search your entire ebook library for scenes tagged with "space battle"? How insanely helpful would that be for a writer?
+    - this also ties back into [one of my other capstone ideas](https://docs.google.com/spreadsheets/d/1JklQ4uY-ypndcUlLGXwcErMScg4-0UX2_9EomDLTwqM/edit?usp=sharing), which was to have a __database of terms and phrases__
+      - these terms/phrases would just be "tagged" (as individual words, or as sentences, passages, etc.)
+      - a fiction writer or researcher could have easy access to terms that originated in a text
+        - this is really useful for __spell-checking invented words__ and for __conforming to publisher style guides__
+      - this database could be a public lexicon API for invented terms
+        - easier for me to scope around a specific franchise, like Star Wars... so in this case, this idea is too general
+        - and it's been done in the general sense already: [https://sfdictionary.com/](https://sfdictionary.com/)
 
 ### Original proposal (unapproved)
 Name of Student:
