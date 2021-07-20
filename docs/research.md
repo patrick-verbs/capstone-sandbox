@@ -96,6 +96,14 @@ __Tech stack__
     - this could also double as an API for other programmers to use
       - replacing to very incomplete [SWAPI](https://swapi.dev/about) with far more media than just the six films
     - turn into an encyclopedia in the future? (Yodapedia) _Definitely_ outside of scope
+  - __I don't really want my capstone to be a weirdly-niche Star Wars showcase__
+- A more general sci-fi/fantasy database, maybe?
+  - looks like [http://www.isfdb.org/](http://www.isfdb.org/) is way ahead of me there
+    - leaves a lot to be desired as far as style
+    - maybe I could dump this data as a pseudo-API, maybe even create an API from it?
+  - this could be handy for tagging passages in novels for easy lookup (e.g. "space battle") for writers
+    - tons of use cases for this, how can I dial it in?
+    - 
 
 ### Original proposal (unapproved)
 Name of Student:
