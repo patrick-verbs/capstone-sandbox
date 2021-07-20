@@ -118,6 +118,15 @@ __Tech stack__
         - easier for me to scope around a specific franchise, like Star Wars... so in this case, this idea is too general
         - and it's been done in the general sense already: [https://sfdictionary.com/](https://sfdictionary.com/)
 
+#### BiblioPile (final idea)
+- I just need this project to have some __identity__. I've got a pun, it scopes things down (books only, not all media), and it suggests an aesthetic style (think GoodReads, or libraries)
+- A media asset manager for __books__
+  - digital books, linked to or at least labeled with the storage devices they live on
+  - physical books, labeled to locations (e.g. "home: bedroom bookshelf" or "storage unit")
+- Try to implement tagging functionality (stretch)
+- Try to make it look nice
+- How do I __not__ make this "Shitty GoodReads"?
+
 ### Original proposal (unapproved)
 Name of Student:
 Patrick Lee
